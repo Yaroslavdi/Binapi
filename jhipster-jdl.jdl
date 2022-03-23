@@ -1,0 +1,7 @@
+/**
+ * The TODO entity.
+ */
+entity TODO {
+	name String,
+	date Instant
+}
