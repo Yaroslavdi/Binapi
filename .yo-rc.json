@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "ru.practice.binapi"
+    },
+    "jhipsterVersion": "6.10.3",
+    "applicationType": "monolith",
+    "baseName": "Binapi",
+    "packageName": "ru.practice.binapi",
+    "packageFolder": "ru/practice/binapi",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZmFmZjI5ZmM2MTAyODZiMzY2Mzk0NzJmMWY0MjVmOWRmOWViOWNlMzAwMzg3MDAyOTRlZDY5ZDk1ZWMwNTQ0YmY2OTRhN2ZiMmE1ODNmZDhhNDcyODk5YzQ2ZTYxYTgzOTliODhkYjZhMDVjZWM4MWYxZmUwNmI4NGVkNDVlNTU=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1648039178623,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
